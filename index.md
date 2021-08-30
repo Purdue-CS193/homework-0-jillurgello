@@ -24,6 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Image](src)
 ```
 # Jillian's First CS193 Homework
 
@@ -32,10 +33,6 @@ Syntax highlighted code block
 - learning from students who have gone through Purdue's comp sci program
 - understanding the different tools I can use to make coding more efficient
 - it's not a 7:30 am class
-
-
-
-[Link](url) and ![Image](src)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
